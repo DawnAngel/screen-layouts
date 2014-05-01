@@ -8,4 +8,6 @@ Usage
 
 Just add to your .bashrc or .bash\_profile the following line
 
-`. **PATH_TO_PROJECT**/screenAlias.sh`
+`
+	. PATH_TO_PROJECT/screenAlias.sh
+`
